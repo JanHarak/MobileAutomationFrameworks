@@ -19,22 +19,25 @@ allure open
 
 #--- APPIUM TROUBLE --------
 appium driver uninstall uiautomator2
+
 appium driver install uiautomator2
+
 appium driver update uiautomator2
 
 adb uninstall io.appium.uiautomator2.server
+
 adb uninstall io.appium.uiautomator2.server.test
+
 adb uninstall io.appium.unlock
+
 adb uninstall io.appium.settings
-
-Robot Framework Pack
-Robot Framework Intellisense
-
 
 #---- SETUP WEBDRIVER IO ----
 
 npm init -y
+
 npm i @wdio/cli
+
 npx wdio config
 
 npm i --save-dev @wdio/cli appium
