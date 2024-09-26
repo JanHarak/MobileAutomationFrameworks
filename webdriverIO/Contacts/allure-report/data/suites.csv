@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 18 13:15:38 CEST 2024","Wed Sep 18 13:15:40 CEST 2024","1875","","Find element by accessibility id,Class Name","","","","Find element by Class Name",""
+"passed","Wed Sep 18 13:15:38 CEST 2024","Wed Sep 18 13:15:38 CEST 2024","257","","Find element by accessibility id,Class Name","","","","Find element by Text",""
+"passed","Wed Sep 18 13:15:33 CEST 2024","Wed Sep 18 13:15:38 CEST 2024","4845","","Find element by accessibility id,Class Name","","","","Find element by Accessibility id",""
+"passed","Wed Sep 18 13:15:30 CEST 2024","Wed Sep 18 13:15:33 CEST 2024","3272","","Find element by accessibility id,Class Name","","","","Find element by XPath",""
+"passed","Wed Sep 18 13:46:50 CEST 2024","Wed Sep 18 13:47:04 CEST 2024","13116",""," Test Suite Locator strategy - example","","","","TEST CASE",""

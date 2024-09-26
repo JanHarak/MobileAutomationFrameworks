@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Sep 18 15:52:41 CEST 2024","Wed Sep 18 15:52:55 CEST 2024","13293","","FerShare Test suite","","","","Calculate fuel consume with ScreenObjectModel",""
+"passed","Mon Sep 23 10:25:19 CEST 2024","Mon Sep 23 10:25:31 CEST 2024","12010","","FerShare Test suite","","","","Calculate fuel consume with ScreenObjectModel",""
+"passed","Mon Sep 23 10:25:06 CEST 2024","Mon Sep 23 10:25:18 CEST 2024","12350","","FerShare Test suite","","","","Calculate fuel consume",""
+"failed","Wed Sep 25 14:05:33 CEST 2024","Wed Sep 25 14:05:45 CEST 2024","11889","","FerShare Test suite","","","","Calculate fuel consume",""
