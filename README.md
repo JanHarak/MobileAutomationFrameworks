@@ -1,15 +1,20 @@
 # MobileAutomationFrameworks
 
 emulator -avd Pixel_6.1
+
 emulator -avd Pixel_6.1 -no-window
 
 #--- REPORTY -------
 npm install @wdio/allure-reporter --save-dev
+
 allure generate allure-results --clean -o allure-report
+
 allure open allure-report
 --NEBO--
 allure generate allure-results --clean
+
 npx allure generate
+
 allure open
 
 #--- APPIUM TROUBLE --------
